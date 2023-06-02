@@ -1,0 +1,4 @@
+First Install python https://www.python.org/ and make sure to tick add to pach then Run the Requirements and then run rblxwild autojoiner setup 
+keep in mind this is a 1 day trial auto joiner
+
+And Enjoy!
